@@ -1,5 +1,10 @@
+body{
+    background-color: rgb(151, 199, 211);
+}
+
 h1{
     text-align: center;
+    color: grey;
 }
 
 #bg{
@@ -28,4 +33,13 @@ h1{
     box-sizing: border-box;
     border-radius: 10px;
     font-size: 45px;
+    font-family: Comic Sans MS;
+}
+
+#score1, #score2{
+    text-align: center;
+    margin-top: 25px;
+    font-size: 30px;
+    font-family: Comic Sans MS;
+    color: gray;
 }
