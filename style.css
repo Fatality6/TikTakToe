@@ -1,10 +1,10 @@
 body{
-    background-color: rgb(175, 108, 108);
+    background-color: rgb(88, 156, 165);
 }
 
 h1{
     text-align: center;
-    color: grey;
+    color: rgb(156, 44, 44);
 }
 
 #bg{
@@ -28,7 +28,7 @@ h1{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: burlywood;
+    background-color: rgb(135, 222, 196);
     border: 1px solid white;
     box-sizing: border-box;
     border-radius: 10px;
@@ -41,5 +41,5 @@ h1{
     margin-top: 25px;
     font-size: 30px;
     font-family: Comic Sans MS;
-    color: gray;
+    color: rgb(95, 93, 93);
 }
